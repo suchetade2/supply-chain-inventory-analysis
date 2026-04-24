@@ -67,8 +67,8 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 
 ## 📊 Key Visualisations
 
-### Late Delivery Rate by Shipping Mode
-!(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart1_late_delivery_by_shipping_mode.png)
+### Late Delivery by Shipping Mode
+![Late Delivery by Shipping Mode](late delivery by shipping mode.png)
 
 ### Orders and Profit by Market
 !(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart2_orders_profit_by_market.png)
