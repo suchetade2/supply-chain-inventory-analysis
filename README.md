@@ -68,27 +68,28 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 ## 📊 Key Visualisations
 
 ### Late Delivery by Shipping Mode
-![Late Delivery by Shipping Mode]("C:\Users\Sucheta\Downloads\late_delivery_by_shipping_mode.png")
+[!(https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/late_delivery_by_shipping_mode.png))
+](https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart1_late_delivery_by_shipping_mode.png)
 
 ### Orders and Profit by Market
 !([https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart2_orders_profit_by_market.png](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/orders_profit_by_market.png))
 
 ### Monthly Sales Trend (2015–2018)
-!(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart3_monthly_sales_trend.png)
+![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart3_monthly_sales_trend.png)](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/monthly_sales_trend.png)
 
 ### Top 10 Product Categories by Profit
-!(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart4_top10_categories_profit.png)
+![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart4_top10_categories_profit.png)](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/top10_categories_profit.png)
 
 ### Delivery Status Heatmap by Market
-!(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart5_delivery_heatmap_by_market.png)
+![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart5_delivery_heatmap_by_market.png)
+](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/delivery_heatmap_by_market.png)
 
 ### Demand Forecast — Next 6 Months
-!(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/5_forecasting_ml/charts/chart8_demand_forecast.png)
+![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/5_forecasting_ml/charts/chart8_demand_forecast.png)](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/demand_forecast.png)
 
 ### Late Delivery Prediction — Feature Importance
-!(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/5_forecasting_ml/charts/chart9_feature_importance_confusion_matrix.png)
-
----
+![(https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/feature_importance_confusion_matrix.png)
+---](https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/5_forecasting_ml/charts/chart9_feature_importance_confusion_matrix.png))
 
 ## 🗄️ SQL Analysis — What Was Done
 
