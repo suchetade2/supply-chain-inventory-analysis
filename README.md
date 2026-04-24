@@ -13,9 +13,9 @@
 
 | Notebook | Link |
 |---|---|
-| Phase 1 — Data Cleaning | [![Open In Colab](https://colab.research.google.com/drive/1akcNkXDP_Kx_QRMYkg_dLDIn-733XM8U?usp=sharing) |
-| Phase 3 — EDA & Visualisation | [![Open In Colab](https://colab.research.google.com/drive/1hs9z17KPfVNm8QBdxmKEYd40tsiYZgSY?usp=sharing) |
-| Phase 4 — Forecasting & ML | [![Open In Colab](https://colab.research.google.com/drive/1mHmjorSksoz5EKq6Rz3MAXhwEzy2KWUv?usp=sharing) |
+| Phase 1 — Data Cleaning |[▶ Open in Colab](https://colab.research.google.com/drive/1akcNkXDP_Kx_QRMYkg_dLDIn-733XM8U?usp=sharing)
+| Phase 3 — EDA & Visualisation | [▶ Open in Colab](https://colab.research.google.com/drive/1hs9z17KPfVNm8QBdxmKEYd40tsiYZgSY?usp=sharing)
+| Phase 4 — Forecasting & ML | [▶ Open in Colab](https://colab.research.google.com/drive/1mHmjorSksoz5EKq6Rz3MAXhwEzy2KWUv?usp=sharing)
 
 ---
 
