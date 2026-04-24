@@ -68,7 +68,7 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 ## 📊 Key Visualisations
 
 ### Late Delivery Rate by Shipping Mode
-![Late Delivery Shipping]("C:\Users\Sucheta\Downloads\late_delivery_by_shipping_mode.png")
+![Late Delivery Shipping]("late_delivery_by_shipping_mode.png")
 
 ### Orders and Profit by Market
 ![Market Performance]("C:\Users\Sucheta\Downloads\orders_profit_by_market.png")
