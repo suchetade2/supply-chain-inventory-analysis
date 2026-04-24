@@ -81,8 +81,6 @@ The raw dataset is available on Kaggle:
 
 ---
 
----
-
 ## 📊 Key Visualisations
 
 ### Late Delivery Rate by Shipping Mode
@@ -146,6 +144,8 @@ The raw dataset is available on Kaggle:
 ---
 
 ## 📊 Power BI Dashboard Pages
+
+📄 **[View Dashboard PDF](6_powerbi/supply_chain_dashboard.pdf)**
 
 | Page | Content |
 |---|---|
