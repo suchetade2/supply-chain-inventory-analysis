@@ -145,7 +145,7 @@ The raw dataset is available on Kaggle:
 
 ## 📊 Power BI Dashboard Pages
 
-📄 **[View Dashboard PDF]([supply_chain_dashboard.pdf](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/Supply%20Chain%20Dashboard.pdf))**
+📄 **[View Dashboard PDF](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/Supply%20Chain%20Dashboard.pdf))**
 
 | Page | Content |
 |---|---|
