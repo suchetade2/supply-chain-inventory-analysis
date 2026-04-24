@@ -25,6 +25,24 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 
 ---
 
+## 📂 Data
+
+The raw dataset is available on Kaggle:
+[Download DataCo Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
+| Property | Details |
+|---|---|
+| **Rows** | 180,519 |
+| **Original Columns** | 53 |
+| **Cleaned Columns** | 48 |
+| **Date Range** | January 2015 — February 2018 |
+| **Markets** | Europe, LATAM, Pacific Asia, USCA, Africa |
+
+> **Note:** The cleaned dataset `dataco_cleaned.csv` is not included
+> in this repository due to file size limits.
+> To generate it, download the raw dataset from Kaggle and
+> run `2_python_cleaning/data_cleaning.ipynb` notebook.
+
 ## 🎯 Business Questions Answered
 
 1. What is the overall late delivery rate and which shipping mode causes the most delays?
@@ -135,20 +153,6 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 | **Page 2 — Delivery Performance** | Late delivery by shipping mode, world map, market vs shipping mode heatmap |
 | **Page 3 — Product & Profit** | Sales treemap by category, sales vs profit scatter plot |
 | **Page 4 — Demand Forecast** | 6-month demand forecast using Holt-Winters model |
-
----
-
-## 📈 Dataset
-
-| Property | Details |
-|---|---|
-| **Source** | DataCo Smart Supply Chain Dataset |
-| **Link** | [Kaggle Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) |
-| **Rows** | 180,519 |
-| **Original Columns** | 53 |
-| **Cleaned Columns** | 48 |
-| **Date Range** | January 2015 — February 2018 |
-| **Markets** | Europe, LATAM, Pacific Asia, USCA, Africa |
 
 ---
 
