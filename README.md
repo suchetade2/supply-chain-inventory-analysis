@@ -87,8 +87,11 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 ![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/5_forecasting_ml/charts/chart8_demand_forecast.png)](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/demand_forecast.png)
 
 ### Late Delivery Prediction — Feature Importance
-![(https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/feature_importance_confusion_matrix.png)
+![[(https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/feature_importance_confusion_matrix.png)
 ---](https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/5_forecasting_ml/charts/chart9_feature_importance_confusion_matrix.png))
+](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/feature_importance_confusion_matrix.png)
+
+---
 
 ## 🗄️ SQL Analysis — What Was Done
 
