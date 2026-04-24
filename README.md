@@ -71,7 +71,7 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 ![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart1_late_delivery_by_shipping_mode.png)](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/late_delivery_by_shipping_mode.png)
 
 ### Orders and Profit by Market
-!([https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart2_orders_profit_by_market.png](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/orders_profit_by_market.png))
+![([https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart2_orders_profit_by_market.png](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/orders_profit_by_market.png))](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/orders_profit_by_market.png)
 
 ### Monthly Sales Trend (2015–2018)
 ![(https://raw.githubusercontent.com/suchetade2/supply-chain-inventory-analysis/main/4_python_eda/charts/chart3_monthly_sales_trend.png)](https://github.com/suchetade2/supply-chain-inventory-analysis/blob/main/monthly_sales_trend.png)
