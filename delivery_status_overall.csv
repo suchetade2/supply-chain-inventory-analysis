@@ -1,0 +1,5 @@
+delivery_status,total_orders,percentage
+"Late delivery",179,51.29
+"Advance shipping",78,22.35
+"Shipping on time",65,18.62
+"Shipping canceled",27,7.74

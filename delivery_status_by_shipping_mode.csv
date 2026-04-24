@@ -1,0 +1,12 @@
+shipping_mode,delivery_status,total_orders
+"First Class","Late delivery",13
+"Same Day","Late delivery",3
+"Same Day","Shipping on time",2
+"Same Day","Shipping canceled",1
+"Second Class","Late delivery",86
+"Second Class","Shipping on time",12
+"Second Class","Shipping canceled",3
+"Standard Class","Advance shipping",78
+"Standard Class","Late delivery",77
+"Standard Class","Shipping on time",51
+"Standard Class","Shipping canceled",23

@@ -1,0 +1,11 @@
+order_region,total_orders,late_orders,late_pct,avg_delay_days
+"Northern Europe",15,12,80.00,1.93
+"Southern Europe",14,11,78.57,1.64
+"Western Europe",35,27,77.14,1.57
+"South Asia",23,16,69.57,0.96
+"Southern Africa",6,4,66.67,1.00
+"Eastern Europe",3,2,66.67,1.00
+"Southeast Asia",14,8,57.14,0.57
+"Central Africa",7,4,57.14,1.43
+"South America",31,17,54.84,0.42
+"West Africa",22,11,50.00,0.41
