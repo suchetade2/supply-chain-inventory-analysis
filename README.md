@@ -68,25 +68,25 @@ A complete end-to-end supply chain analytics project built on the **DataCo Smart
 ## 📊 Key Visualisations
 
 ### Late Delivery Rate by Shipping Mode
-![Late Delivery Shipping]("C:\Users\Sucheta\Downloads\chart1_late_delivery_by_shipping_mode.png")
+![Late Delivery Shipping]("C:\Users\Sucheta\Downloads\late_delivery_by_shipping_mode.png")
 
 ### Orders and Profit by Market
-![Market Performance](4_python_eda/charts/chart2_orders_profit_by_market.png)
+![Market Performance]("C:\Users\Sucheta\Downloads\orders_profit_by_market.png")
 
 ### Monthly Sales Trend (2015–2018)
-![Monthly Trend](4_python_eda/charts/chart3_monthly_sales_trend.png)
+![Monthly Trend]("C:\Users\Sucheta\Downloads\monthly_sales_trend.png")
 
 ### Top 10 Product Categories by Profit
-![Category Profit](4_python_eda/charts/chart4_top10_categories_profit.png)
+![Category Profit]("C:\Users\Sucheta\Downloads\top10_profitable_products.csv")
 
 ### Delivery Status Heatmap by Market
-![Delivery Heatmap](4_python_eda/charts/chart5_delivery_heatmap_by_market.png)
+![Delivery Heatmap]("C:\Users\Sucheta\Downloads\delivery_heatmap_by_market.png")
 
 ### Demand Forecast — Next 6 Months
-![Demand Forecast](5_forecasting_ml/charts/chart8_demand_forecast.png)
+![Demand Forecast]("C:\Users\Sucheta\Downloads\demand_forecast.png")
 
 ### Late Delivery Prediction — Feature Importance
-![Feature Importance](5_forecasting_ml/charts/chart9_feature_importance_confusion_matrix.png)
+![Feature Importance]("C:\Users\Sucheta\Downloads\feature_importance_confusion_matrix.png")
 
 ---
 
